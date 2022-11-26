@@ -30,14 +30,3 @@ Parts
 |   6 | Socket Screw ISO 4762, M3 x 6 mm                             |
 |  10 | Threaded Insert, M3 (Ruthex RX-M3x5.7)                       |
 |   1 | Wolley BatteryECU v2.0 (100136)                              |
-
-Release Notes
--------------
-
-Version 2.0:
-- Replaced the 3 Li-ion 18650 cells with 10 Ni-MH AA cells.
-- Added an integrated charger.
-- Added an on-board on/off button.
-- Added RGB status LEDs.
-- Removed the fuse.
-- Changed the PCB dimensions.
